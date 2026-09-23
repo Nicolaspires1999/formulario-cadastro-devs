@@ -1,5 +1,5 @@
 # Formulário Simples
 
-Meu primeiro projeto desenvolvido com HTML e CSS.
+Formulário desenvolvido com HTML E CSS
 
 ![Preview do projeto](layout-formulario.png)
